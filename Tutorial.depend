@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522833495 source:/home/rtrk/Documents/Branko/Tutorial/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
