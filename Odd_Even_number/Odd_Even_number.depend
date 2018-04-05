@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522924045 source:/home/rtrk/Documents/Branko/Odd_Even_number/main.c
+	<stdio.h>
+	<stdlib.h>
+
